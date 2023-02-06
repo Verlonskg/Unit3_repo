@@ -1,7 +1,6 @@
 # Quiz 033
 
-## Code: 
-
+## Code
 ```.py
 def mystery(x:list, y:list)->list:
     
@@ -16,7 +15,7 @@ def mystery(x:list, y:list)->list:
                 
     return output
 ```
-## Test Case: 
+## Test Case 
 ```.py 
 import pytest
 from quiz_033 import mystery
