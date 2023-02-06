@@ -34,4 +34,4 @@ def test_multiple_common_elements():
     assert mystery([1, 2, 3, 4], [3, 4, 5, 6]) == [3, 4]
 ``` 
 
-![Test](https://github.com/KaiFig/Unit_3/blob/main/Quizzes/Quiz_033_test.jpg)
+![Test](https://github.com/Verlonskg/Unit3_repo/blob/main/Quizzes/Reasources/quiz_033_test.jpg)
