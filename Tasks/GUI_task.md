@@ -210,8 +210,8 @@ Screen:
 
 ```
 
-![screenshot](https://github.com/KaiFig/Unit_3/blob/main/Tasks/Screenshot%202023-01-31%20at%2010.07.49%20AM.png)
-![screenshot](https://github.com/KaiFig/Unit_3/blob/main/Tasks/Screenshot%202023-01-31%20at%2010.07.40%20AM.png)
-![screenshot](https://github.com/KaiFig/Unit_3/blob/main/Tasks/Screenshot%202023-01-31%20at%2010.07.34%20AM.png)
-![screenshot](https://github.com/KaiFig/Unit_3/blob/main/Tasks/Screenshot%202023-01-31%20at%2010.07.20%20AM.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_01.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_02.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_03.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_04.png)
 
