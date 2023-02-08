@@ -255,8 +255,8 @@ Screen:
 
 ```
 
-![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_01.png)
-![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_02.png)
-![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_03.png)
-![screenshot](https://github.com/Verlonskg/Unit3_repo/edit/main/Tasks/Reasources/Task_01_04.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/blob/main/Tasks/Reasources/Task_01_01.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/blob/main/Tasks/Reasources/Task_01_02.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/blob/main/Tasks/Reasources/Task_01_03.png)
+![screenshot](https://github.com/Verlonskg/Unit3_repo/blob/main/Tasks/Reasources/Task_01_04.png)
 
